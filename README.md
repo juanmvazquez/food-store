@@ -109,7 +109,7 @@ El sistema utiliza **persistencia en memoria** mediante `ArrayList`. Los datos n
 
 ## Integrantes del equipo
 
-> *(Completar con los nombres y legajos de los integrantes del grupo)*
+> *Vazquez, Juan Manuel*
 
 ---
 
